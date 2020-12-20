@@ -1,4 +1,5 @@
 var b = "第二次修改";
+var a = "第一次修改！";
 function Swipe(obj) {
 	this.id = obj.id,
 	this.cas = document.getElementById(this.id),
