@@ -1,5 +1,3 @@
-var zxc = null;
-var asd = 1;
 function Swipe(obj) {
 	this.id = obj.id,
 	this.cas = document.getElementById(this.id),
@@ -20,7 +18,6 @@ function Swipe(obj) {
 	this.init();
 	this.addEvent();
 }
-var qwe = 123;
 // 初始化方法
 // 设置canvas的图形组合方式，并填充指定的颜色
 Swipe.prototype.init = function() {
