@@ -1,5 +1,5 @@
 var abc = ABC;
-var asd = null;
+var ccc = null;
 function Swipe(obj) {
 	this.id = obj.id,
 	this.cas = document.getElementById(this.id),
