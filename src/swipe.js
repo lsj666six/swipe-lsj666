@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var b = "第二次修改！";
+=======
+var a = "第一次修改！";
+>>>>>>> 20aaf2ca2105e83cb943f2461542e745c6af00e7
 function Swipe(obj) {
 	this.id = obj.id,
 	this.cas = document.getElementById(this.id),
