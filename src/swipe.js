@@ -1,3 +1,5 @@
+var b = 2;
+var bb = 22;
 function Swipe(obj) {
 	this.id = obj.id,
 	this.cas = document.getElementById(this.id),
